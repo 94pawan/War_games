@@ -6,3 +6,11 @@ The Bandit wargame is for beginners. It will teach the basics needed to be able 
   
     username : bandit0
     password : bandit0 
+
+ On The website there are Commands given  that you need to solve the level and description too , that what you have to perform 
+ 
+ For example : locate into home directory to get the password .
+
+Bandit Level 1 → Level 2
+    Level Goal  : The password for the next level is stored in a file called - located in the home directory
+    Commands you may need to solve this level     : ls, cd, cat, file, du, find
