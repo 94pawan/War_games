@@ -14,3 +14,6 @@ The Bandit wargame is for beginners. It will teach the basics needed to be able 
 Bandit Level 1 → Level 2
     Level Goal  : The password for the next level is stored in a file called - located in the home directory
     Commands you may need to solve this level     : ls, cd, cat, file, du, find
+
+
+  Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
