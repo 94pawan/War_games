@@ -35,7 +35,7 @@ Level 1  -- Level 2
 
 Level 2  -- Level 3
 
-     kali1@sorry: ~$ ssh bandit3@bandit.labs.overthewire.org -p 2220
+     kali1@sorry: ~$ ssh bandit3@bandit.labs.overthewire.org -p 2220
      bandit3@bandit.labs.overthewire.org's password: 
      bandit3@bandit: ~$ ls
      inhere
@@ -65,7 +65,7 @@ Level 3 -- Level 4
 
 Level 4 -- Level 5
              
-     kali1@sorry: ~$ ssh bandit5@bandit.labs.overthewire.org -p 2220
+     ali1@sorry: ~$ ssh bandit5@bandit.labs.overthewire.org -p 2220
      bandit5@bandit.labs.overthewire.org's password: 
      bandit5@bandit: ~$ ls
      inhere
