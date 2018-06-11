@@ -11,7 +11,7 @@ Level 0
      bandit0@bandit: ~$ logout
      Connection to bandit.labs.overthewire.org closed.
     
-Level 0  -- Level 1
+ Level 1
 
      kali1@sorry: ~$ ssh bandit1@bandit.labs.overthewire.org -p 2220
      bandit1@bandit.labs.overthewire.org's password: 
@@ -21,8 +21,7 @@ Level 0  -- Level 1
      CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
      bandit1@bandit: ~logout
      Connection to bandit.labs.overthewire.org closed.
-
-Level 1  -- Level 2
+ Level 2
 
      kali1@sorry: ~$ ssh bandit2@bandit.labs.overthewire.org -p 2220
      bandit2@bandit.labs.overthewire.org's password: 
@@ -33,7 +32,7 @@ Level 1  -- Level 2
      bandit2@bandit: ~$ logout
      Connection to bandit.labs.overthewire.org closed.
 
-Level 2  -- Level 3
+Level 3
 
      kali1@sorry: ~$ ssh bandit3@bandit.labs.overthewire.org -p 2220
      bandit3@bandit.labs.overthewire.org's password: 
@@ -47,8 +46,8 @@ Level 2  -- Level 3
      pIwrPrtPN36QITSp3EQaw936yaFoFgAB
      bandit3@bandit: ~/inhere$ logout
      Connection to bandit.labs.overthewire.org closed.
-    
-Level 3 -- Level 4
+
+Level 4
     
      kali1@sorry: ~$ ssh bandit4@bandit.labs.overthewire.org -p 2220
      bandit4@bandit.labs.overthewire.org's password: 
@@ -63,7 +62,7 @@ Level 3 -- Level 4
      bandit4@bandit:~/inhere$ logout
      Connection to bandit.labs.overthewire.org closed    
 
-Level 4 -- Level 5
+Level 5
              
      ali1@sorry: ~$ ssh bandit5@bandit.labs.overthewire.org -p 2220
      bandit5@bandit.labs.overthewire.org's password: 
