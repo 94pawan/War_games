@@ -1,0 +1,30 @@
+In Each level you have to access to the password of the next level. Your job is to somehow obtain that next password and level up.
+
+
+//LEVEL0
+  Username : natas0
+  Passcode : natas0
+  Url      : http://natas0.natas.labs.overthewire.org/
+  How to solve for next Level: Enter the passcode and username on natas0,view-source code of the site and copy it to unlock next level .
+  
+  
+//LEVEL1
+
+  Username : natas1
+  Passcode : gtVrDuiDfck831PqWsLEZy5gyDz1clto
+  Url      : http://natas1.natas.labs.overthewire.org/
+  How to solve for next Level : right-click is disable , so open console or type view-source: in url find password by looking source-code
+  
+  //LEVEL2
+
+  Username : natas2
+  Passcode : ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
+  Url      : http://natas2.natas.labs.overthewire.org/
+  How to solve for next Level : use /files after the url and it will the files open txt file look for passcode for natas3.
+  
+  //LEVEL3
+
+  Username : natas3
+  Passcode : sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
+  Url      : http://natas3.natas.labs.overthewire.org/
+  How to solve for NEXT Level : by looking source code comment show that "not even google found" that mean it can directly index by web crules so type /robots.txt after the url 
